@@ -10,7 +10,7 @@ import ThemeSwitch from "@/components/theme-switch"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Ayush | Personal Websie",
+  title: "Ayush | Personal Website",
   description:
     "I am a fullstack developer working to build interactive and dynamic websites and web apps",
 }
